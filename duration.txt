@@ -1,0 +1,39 @@
+{
+  "lines": [
+    {
+      "name": "Monorail Line",
+      "starting_time": "06:00",
+      "frequency_minutes": 10
+    },
+    {
+      "name": "Kajang Line",
+      "starting_time": "06:00",
+      "frequency_minutes": 8
+    },
+    {
+      "name": "Putrajaya Line",
+      "starting_time": "06:00",
+      "frequency_minutes": 10
+    },
+    {
+      "name": "Kelana Jaya Line",
+      "starting_time": "06:00",
+      "frequency_minutes": 7
+    },
+    {
+      "name": "Sri Petaling Line",
+      "starting_time": "06:00",
+      "frequency_minutes": 10
+    },
+    {
+      "name": "Ampang Line",
+      "starting_time": "06:00",
+      "frequency_minutes": 8
+    },
+    {
+      "name": "BRT Line",
+      "starting_time": "06:00",
+      "frequency_minutes": 8
+    }
+  ]
+}
