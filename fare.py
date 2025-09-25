@@ -28,7 +28,6 @@ def calculate_fare(start_id, end_id):
         except Exception as e:
             print(f"Error reading distance between {sid1} and {sid2}: {e}")
 
-    # Example fare rule (distance-based)
     base_fare = 1.20
     per_km = 0.15
     fare = base_fare + (total_distance * per_km)
