@@ -1,5 +1,6 @@
 import lib
 import duration
+from fare import calculate_fare
 import time
 
 #1: Welcome message 
@@ -15,6 +16,14 @@ while True:
     end = int(input("Enter destination station ID: "))
     print("\n")
 
+#3: Output info 1- Suggested Route 
+lib.typewriter_effect("="*60)
+print("1. Suggested Route:")
+print(lib.suggest_route(start, end))
+fare, distance = calculate_fare(start, end)
+print(f"\nTotal Distance: {distance:.1f} km")
+print(f"Estimated Fare: RM {fare:.2f}")
+lib.typewriter_effect("="*60)
     if 1<=start<=186 and 1<=end<=186:
         #3: Output info 1- Suggested Route 
         lib.typewriter_effect("="*60)
