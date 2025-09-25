@@ -2,7 +2,7 @@ import csv
 from datetime import datetime, timedelta
 
 def get_next_train_time(station_id):
-    file_path = r"c:\Users\User\OneDrive\Desktop\MyTransit\MYTransit\station_info.csv"
+    file_path = r"station_info.csv"
     
     try:
         # Get current device time
