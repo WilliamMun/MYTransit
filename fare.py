@@ -1,6 +1,5 @@
-# fare.py
 import pandas as pd
-from lib import bfs_route  # reuse your BFS pathfinder
+from lib import bfs_route  
 
 # Load station data
 df = pd.read_csv("station_info.csv", encoding="cp1252")
