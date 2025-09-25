@@ -2,6 +2,7 @@ import sys
 import time
 import csv
 import pandas as pd
+from collections import deque
 
 def typewriter_effect(text, delay=0.05):
     for char in text:
@@ -27,9 +28,6 @@ def display_station():
     station_list = df_clean["formatted"].tolist()
     for station in station_list:
         print(station)
-
-import pandas as pd
-from collections import deque
 
 # Load station data
 df = pd.read_csv("station_info.csv", encoding="cp1252")
