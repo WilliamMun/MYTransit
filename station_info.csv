@@ -1,187 +1,187 @@
-station_id,station_name,line,type_of_train,interchange,connecting,starting time,frequency
-1,Kwasa Damansara,KGL,MRT,30,,0600,8
-2,Kwasa Sentral,KGL,MRT,,,0600,8
-3,Kota Damansara,KGL,MRT,,,0600,8
-4,Surian,KGL,MRT,,,0600,8
-5,Mutiara Damansara,KGL,MRT,,,0600,8
-6,Bandar Utama,KGL,MRT,149,,0600,8
-7,Taman Tun Dr Ismail (TTDI),KGL,MRT,,,0600,8
-8,Phileo Damansara,KGL,MRT,,,0600,8
-9,Pusat Bandar Damansara,KGL,MRT,,,0600,8
-10,Semantan,KGL,MRT,,,0600,8
-11,Muzium Negara,KGL,MRT,,"79, 169",0600,8
-12,Pasar Seni,KGL,MRT,78,,0600,8
-13,Merdeka,KGL,MRT,"109, 127",,0600,8
-14,Bukit Bintang,KGL,MRT,,174,0600,8
-15,Tun Razak Exchange (TRX),KGL,MRT,50,,0600,8
-16,Cochrane,KGL,MRT,,,0600,8
-17,Maluri,KGL,MRT,114,,0600,8
-18,Taman Pertama,KGL,MRT,,,0600,8
-19,Taman Midah,KGL,MRT,,,0600,8
-20,Taman Mutiara,KGL,MRT,,,0600,8
-21,Taman Connaught,KGL,MRT,,,0600,8
-22,Taman Suntex,KGL,MRT,,,0600,8
-23,Sri Raya,KGL,MRT,,,0600,8
-24,Bandar Tun Hussein Onn,KGL,MRT,,,0600,8
-25,Batu 11 Cheras,KGL,MRT,,,0600,8
-26,Bukit Dukung,KGL,MRT,,,0600,8
-27,Sungai Jernih,KGL,MRT,,,0600,8
-28,Stadium Kajang,KGL,MRT,,,0600,8
-29,Kajang,KGL,MRT,,,0600,8
-30,Kwasa Damansara,PYL,MRT,1,,0600,10
-31,Kampung Selamat,PYL,MRT,,,0600,10
-32,Sungai Buloh,PYL,MRT,,,0600,10
-33,Damansara Damai,PYL,MRT,,,0600,10
-34,Sri Damansara Barat,PYL,MRT,,,0600,10
-35,Sri Damansara Sentral,PYL,MRT,,,0600,10
-36,Sri Damansara Timur,PYL,MRT,,,0600,10
-37,Kepong Sentral,PYL,MRT,,,0600,10
-38,Kepong Baru,PYL,MRT,,,0600,10
-39,Jinjang,PYL,MRT,,,0600,10
-40,Sri Delima,PYL,MRT,,,0600,10
-41,Kampung Batu,PYL,MRT,,,0600,10
-42,Kentonmen,PYL,MRT,,,0600,10
-43,Jalan Ipoh,PYL,MRT,,,0600,10
-44,Sentul Barat,PYL,MRT,,,0600,10
-45,Titiwangsa,PYL,MRT,"104, 122, 179",,0600,10
-46,Hospital Kuala Lumpur,PYL,MRT,,,0600,10
-47,Ampang Park,PYL,MRT,,73,0600,10
-48,Persiaran KLCC,PYL,MRT,,,0600,10
-49,Conlay,PYL,MRT,,,0600,10
-50,Tun Razak Exchange (TRX),PYL,MRT,15,,0600,10
-51,Chan Sow Lin,PYL,MRT,"112, 130",,0600,10
-52,Kuchai,PYL,MRT,,,0600,10
-53,Taman Naga Emas,PYL,MRT,,,0600,10
-54,Sungai Besi,PYL,MRT,135,,0600,10
-55,Serdang Raya Utara,PYL,MRT,,,0600,10
-56,Serdang Raya Selatan,PYL,MRT,,,0600,10
-57,Serdang Jaya,PYL,MRT,,,0600,10
-58,UPM,PYL,MRT,,,0600,10
-59,Taman Equine,PYL,MRT,,,0600,10
-60,Putra Permai,PYL,MRT,,,0600,10
-61,16 Sierra,PYL,MRT,,,0600,10
-62,Cyberjaya Utara,PYL,MRT,,,0600,10
-63,Cyberjaya City Centre,PYL,MRT,,,0600,10
-64,Putrajaya Sentral,PYL,MRT,,,0600,10
-65,Gombak  ,KJL,LRT,,,0600,7
-66,Taman Melati  ,KJL,LRT,,,0600,7
-67,Wangsa Maju  ,KJL,LRT,,,0600,7
-68,Sri Rampai  ,KJL,LRT,,,0600,7
-69,Setiawangsa  ,KJL,LRT,,,0600,7
-70,Jelatek  ,KJL,LRT,,,0600,7
-71,Dato’ Keramat  ,KJL,LRT,,,0600,7
-72,Damai  ,KJL,LRT,,,0600,7
-73,Ampang Park  ,KJL,LRT,,47,0600,7
-74,KLCC  ,KJL,LRT,,,0600,7
-75,Kampung Baru  ,KJL,LRT,,,0600,7
-76,Dang Wangi  ,KJL,LRT,,176,0600,7
-77,Masjid Jamek  ,KJL,LRT,"108, 126",,0600,7
-78,Pasar Seni  ,KJL,LRT,12,,0600,7
-79,KL Sentral  ,KJL,LRT,,"11, 169",0600,7
-80,Bangsar  ,KJL,LRT,,,0600,7
-81,Abdullah Hukum  ,KJL,LRT,,,0600,7
-82,Kerinchi  ,KJL,LRT,,,0600,7
-83,Universiti  ,KJL,LRT,,,0600,7
-84,Taman Jaya  ,KJL,LRT,,,0600,7
-85,Asia Jaya  ,KJL,LRT,,,0600,7
-86,Taman Paramount  ,KJL,LRT,,,0600,7
-87,Taman Bahagia  ,KJL,LRT,,,0600,7
-88,Kelana Jaya  ,KJL,LRT,,,0600,7
-89,Lembah Subang  ,KJL,LRT,,,0600,7
-90,Ara Damansara  ,KJL,LRT,,,0600,7
-91,Glenmarie  ,KJL,LRT,154,,0600,7
-92,Subang Jaya  ,KJL,LRT,,,0600,7
-93,SS15  ,KJL,LRT,,,0600,7
-94,SS18  ,KJL,LRT,,,0600,7
-95,USJ7  ,KJL,LRT,186,,0600,7
-96,Taipan  ,KJL,LRT,,,0600,7
-97,Wawasan  ,KJL,LRT,,,0600,7
-98,USJ21  ,KJL,LRT,,,0600,7
-99,Alam Megah  ,KJL,LRT,,,0600,7
-100,Subang Alam  ,KJL,LRT,,,0600,7
-101,Putra Heights,KJL,LRT,148,,0600,7
-102,Sentul Timur  ,AGL,LRT,120,,0600,10
-103,Sentul  ,AGL,LRT,121,,0600,10
-104,Titiwangsa  ,AGL,LRT,"45, 122, 179",,0600,10
-105,PWTC  ,AGL,LRT,123,,0600,10
-106,Sultan Ismail  ,AGL,LRT,124,177,0600,10
-107,Bandaraya  ,AGL,LRT,125,,0600,10
-108,Masjid Jamek  ,AGL,LRT,"77, 126",,0600,10
-109,Plaza Rakyat  ,AGL,LRT,"13, 127",,0600,10
-110,Hang Tuah  ,AGL,LRT,"128, 172",,0600,10
-111,Pudu  ,AGL,LRT,129,,0600,10
-112,Chan Sow Lin  ,AGL,LRT,"51, 130",,0600,10
-113,Miharja  ,AGL,LRT,,,0600,10
-114,Maluri  ,AGL,LRT,17,,0600,10
-115,Pandan Jaya  ,AGL,LRT,,,0600,10
-116,Pandan Indah  ,AGL,LRT,,,0600,10
-117,Cempaka  ,AGL,LRT,,,0600,10
-118,Cahaya  ,AGL,LRT,,,0600,10
-119,Ampang ,AGL,LRT,,,0600,10
-120,Sentul Timur  ,SPL,LRT,102,,0600,10
-121,Sentul  ,SPL,LRT,103,,0600,10
-122,Titiwangsa  ,SPL,LRT,"45, 104, 179",,0600,10
-123,PWTC  ,SPL,LRT,105,,0600,10
-124,Sultan Ismail  ,SPL,LRT,106,177,0600,10
-125,Bandaraya  ,SPL,LRT,107,,0600,10
-126,Masjid Jamek  ,SPL,LRT,"77, 108",,0600,10
-127,Plaza Rakyat  ,SPL,LRT,"13, 109",,0600,10
-128,Hang Tuah  ,SPL,LRT,"110, 172",,0600,10
-129,Pudu  ,SPL,LRT,111,,0600,10
-130,Chan Sow Lin  ,SPL,LRT,"51, 112",,0600,10
-131,Cheras  ,SPL,LRT,,,0600,10
-132,Salak Selatan  ,SPL,LRT,,,0600,10
-133,Bandar Tun Razak  ,SPL,LRT,,,0600,10
-134,Bandar Tasik Selatan  ,SPL,LRT,,,0600,10
-135,Sungai Besi  ,SPL,LRT,54,,0600,10
-136,Bukit Jalil  ,SPL,LRT,,,0600,10
-137,Sri Petaling  ,SPL,LRT,,,0600,10
-138,Awan Besar  ,SPL,LRT,,,0600,10
-139,Muhibbah  ,SPL,LRT,,,0600,10
-140,Alam Sutera  ,SPL,LRT,,,0600,10
-141,Kinrara BK5  ,SPL,LRT,,,0600,10
-142,IOI Puchong Jaya  ,SPL,LRT,,,0600,10
-143,Pusat Bandar Puchong  ,SPL,LRT,,,0600,10
-144,Taman Perindustrian Puchong  ,SPL,LRT,,,0600,10
-145,Bandar Puteri  ,SPL,LRT,,,0600,10
-146,Puchong Perdana  ,SPL,LRT,,,0600,10
-147,Puchong Prima  ,SPL,LRT,,,0600,10
-148,Putra Heights ,SPL,LRT,101,,0600,10
-149,Bandar Utama  ,SAL,LRT,6,,0600,5
-150,Kayu Ara  ,SAL,LRT,,,0600,5
-151,BU11  ,SAL,LRT,,,0600,5
-152,Damansara Idaman  ,SAL,LRT,,,0600,5
-153,SS7  ,SAL,LRT,,,0600,5
-154,Glenmarie 2,SAL,LRT,91,,0600,5
-155,Kerjaya  ,SAL,LRT,,,0600,5
-156,Stadium Shah Alam  ,SAL,LRT,,,0600,5
-157,Dato’ Menteri  ,SAL,LRT,,,0600,5
-158,UiTM Shah Alam  ,SAL,LRT,,,0600,5
-159,Seksyen 7 Shah Alam  ,SAL,LRT,,,0600,5
-160,Bandar Baru Klang  ,SAL,LRT,,,0600,5
-161,Pasar Besar Klang  ,SAL,LRT,,,0600,5
-162,Jalan Meru  ,SAL,LRT,,,0600,5
-163,Pasar Jawa  ,SAL,LRT,,,0600,5
-164,Taman Selatan  ,SAL,LRT,,,0600,5
-165,Seri Andalas  ,SAL,LRT,,,0600,5
-166,Klang Jaya  ,SAL,LRT,,,0600,5
-167,Bandar Bukit Tinggi  ,SAL,LRT,,,0600,5
-168,Johan Setia  ,SAL,LRT,,,0600,5
-169,KL Sentral  ,KL,MRL,,"11, 79",0600,7
-170,Tun Sambanthan  ,KL,MRL,,,0600,7
-171,Maharajalela  ,KL,MRL,,,0600,7
-172,Hang Tuah  ,KL,MRL,"110, 128",,0600,7
-173,Imbi  ,KL,MRL,,,0600,7
-174,Bukit Bintang  ,KL,MRL,,14,0600,7
-175,Raja Chulan  ,KL,MRL,,,0600,7
-176,Bukit Nanas  ,KL,MRL,,76,0600,7
-177,Medan Tuanku  ,KL,MRL,,"106, 124",0600,7
-178,Chow Kit  ,KL,MRL,,,0600,7
-179,Titiwangsa  ,KL,MRL,"45, 104, 122",,0600,7
-180,Setia Jaya  ,SSJ,BRT,,,0600,8
-181,Mentari  ,SSJ,BRT,,,0600,8
-182,Sunway Lagoon  ,SSJ,BRT,,,0600,8
-183,SunMed  ,SSJ,BRT,,,0600,8
-184,SunU-Monash  ,SSJ,BRT,,,0600,8
-185,South Quay-USJ 1  ,SSJ,BRT,,,0600,8
-186,USJ7  ,SSJ,BRT,95,,0600,8
+station_id,station_name,line,type_of_train,interchange,connecting,starting time,frequency,distance
+1,Kwasa Damansara,KGL,MRT,30,,0600,8,0
+2,Kwasa Sentral,KGL,MRT,,,0600,8,1
+3,Kota Damansara,KGL,MRT,,,0600,8,2.5
+4,Surian,KGL,MRT,,,0600,8,3.1
+5,Mutiara Damansara,KGL,MRT,,,0600,8,4.5
+6,Bandar Utama,KGL,MRT,149,,0600,8,5.3
+7,Taman Tun Dr Ismail (TTDI),KGL,MRT,,,0600,8,6
+8,Phileo Damansara,KGL,MRT,,,0600,8,7.6
+9,Pusat Bandar Damansara,KGL,MRT,,,0600,8,8.5
+10,Semantan,KGL,MRT,,,0600,8,10.9
+11,Muzium Negara,KGL,MRT,,"79, 169",0600,8,12
+12,Pasar Seni,KGL,MRT,78,,0600,8,12.9
+13,Merdeka,KGL,MRT,"109, 127",,0600,8,13.7
+14,Bukit Bintang,KGL,MRT,,174,0600,8,15.1
+15,Tun Razak Exchange (TRX),KGL,MRT,50,,0600,8,16
+16,Cochrane,KGL,MRT,,,0600,8,16.1
+17,Maluri,KGL,MRT,114,,0600,8,17
+18,Taman Pertama,KGL,MRT,,,0600,8,17.9
+19,Taman Midah,KGL,MRT,,,0600,8,19.5
+20,Taman Mutiara,KGL,MRT,,,0600,8,20.3
+21,Taman Connaught,KGL,MRT,,,0600,8,21
+22,Taman Suntex,KGL,MRT,,,0600,8,22
+23,Sri Raya,KGL,MRT,,,0600,8,23.6
+24,Bandar Tun Hussein Onn,KGL,MRT,,,0600,8,24.7
+25,Batu 11 Cheras,KGL,MRT,,,0600,8,25.4
+26,Bukit Dukung,KGL,MRT,,,0600,8,26.1
+27,Sungai Jernih,KGL,MRT,,,0600,8,27.6
+28,Stadium Kajang,KGL,MRT,,,0600,8,29
+29,Kajang,KGL,MRT,,,0600,8,29.8
+30,Kwasa Damansara,PYL,MRT,1,,0600,10,0
+31,Kampung Selamat,PYL,MRT,,,0600,10,0.7 
+32,Sungai Buloh,PYL,MRT,,,0600,10,1.7 
+33,Damansara Damai,PYL,MRT,,,0600,10,2.5 
+34,Sri Damansara Barat,PYL,MRT,,,0600,10,3.7 
+35,Sri Damansara Sentral,PYL,MRT,,,0600,10,4.2 
+36,Sri Damansara Timur,PYL,MRT,,,0600,10,5.5 
+37,Kepong Sentral,PYL,MRT,,,0600,10,6.7 
+38,Kepong Baru,PYL,MRT,,,0600,10,7.2 
+39,Jinjang,PYL,MRT,,,0600,10,8.6 
+40,Sri Delima,PYL,MRT,,,0600,10,9.2 
+41,Kampung Batu,PYL,MRT,,,0600,10,9.9 
+42,Kentonmen,PYL,MRT,,,0600,10,10.4 
+43,Jalan Ipoh,PYL,MRT,,,0600,10,11.4 
+44,Sentul Barat,PYL,MRT,,,0600,10,11.9 
+45,Titiwangsa,PYL,MRT,"104, 122, 179",,0600,10,12.7 
+46,Hospital Kuala Lumpur,PYL,MRT,,,0600,10,13.9 
+47,Ampang Park,PYL,MRT,,73,0600,10,15.2 
+48,Persiaran KLCC,PYL,MRT,,,0600,10,16.5 
+49,Conlay,PYL,MRT,,,0600,10,17.5 
+50,Tun Razak Exchange (TRX),PYL,MRT,15,,0600,10,18.3 
+51,Chan Sow Lin,PYL,MRT,"112, 130",,0600,10,19.0 
+52,Kuchai,PYL,MRT,,,0600,10,19.9 
+53,Taman Naga Emas,PYL,MRT,,,0600,10,20.8 
+54,Sungai Besi,PYL,MRT,135,,0600,10,22.2 
+55,Serdang Raya Utara,PYL,MRT,,,0600,10,23.3 
+56,Serdang Raya Selatan,PYL,MRT,,,0600,10,24.0 
+57,Serdang Jaya,PYL,MRT,,,0600,10,25.4 
+58,UPM,PYL,MRT,,,0600,10,25.9 
+59,Taman Equine,PYL,MRT,,,0600,10,27.0 
+60,Putra Permai,PYL,MRT,,,0600,10,27.8 
+61,16 Sierra,PYL,MRT,,,0600,10,28.5 
+62,Cyberjaya Utara,PYL,MRT,,,0600,10,30.0 
+63,Cyberjaya City Centre,PYL,MRT,,,0600,10,31.2 
+64,Putrajaya Sentral,PYL,MRT,,,0600,10,32.5 
+65,Gombak  ,KJL,LRT,,,0600,7,0.0 
+66,Taman Melati  ,KJL,LRT,,,0600,7,1.1 
+67,Wangsa Maju  ,KJL,LRT,,,0600,7,1.8 
+68,Sri Rampai  ,KJL,LRT,,,0600,7,3.1 
+69,Setiawangsa  ,KJL,LRT,,,0600,7,4.0 
+70,Jelatek  ,KJL,LRT,,,0600,7,4.8 
+71,Dato? Keramat  ,KJL,LRT,,,0600,7,5.9 
+72,Damai  ,KJL,LRT,,,0600,7,6.8 
+73,Ampang Park  ,KJL,LRT,,47,0600,7,7.6 
+74,KLCC  ,KJL,LRT,,,0600,7,8.1 
+75,Kampung Baru  ,KJL,LRT,,,0600,7,9.3 
+76,Dang Wangi  ,KJL,LRT,,176,0600,7,9.8 
+77,Masjid Jamek  ,KJL,LRT,"108, 126",,0600,7,10.5 
+78,Pasar Seni  ,KJL,LRT,12,,0600,7,11.4 
+79,KL Sentral  ,KJL,LRT,,"11, 169",0600,7,12.5 
+80,Bangsar  ,KJL,LRT,,,0600,7,13.8 
+81,Abdullah Hukum  ,KJL,LRT,,,0600,7,14.4 
+82,Kerinchi  ,KJL,LRT,,,0600,7,15.8 
+83,Universiti  ,KJL,LRT,,,0600,7,17.0 
+84,Taman Jaya  ,KJL,LRT,,,0600,7,18.0 
+85,Asia Jaya  ,KJL,LRT,,,0600,7,18.9 
+86,Taman Paramount  ,KJL,LRT,,,0600,7,20.2 
+87,Taman Bahagia  ,KJL,LRT,,,0600,7,21.5 
+88,Kelana Jaya  ,KJL,LRT,,,0600,7,22.4 
+89,Lembah Subang  ,KJL,LRT,,,0600,7,23.1 
+90,Ara Damansara  ,KJL,LRT,,,0600,7,24.1 
+91,Glenmarie  ,KJL,LRT,154,,0600,7,24.6 
+92,Subang Jaya  ,KJL,LRT,,,0600,7,25.9 
+93,SS15  ,KJL,LRT,,,0600,7,27.2 
+94,SS18  ,KJL,LRT,,,0600,7,28.2 
+95,USJ7  ,KJL,LRT,186,,0600,7,29.6 
+96,Taipan  ,KJL,LRT,,,0600,7,31.0 
+97,Wawasan  ,KJL,LRT,,,0600,7,32.2 
+98,USJ21  ,KJL,LRT,,,0600,7,32.8 
+99,Alam Megah  ,KJL,LRT,,,0600,7,33.4 
+100,Subang Alam  ,KJL,LRT,,,0600,7,34.2 
+101,Putra Heights,KJL,LRT,148,,0600,7,35.5 
+102,Sentul Timur  ,AGL,LRT,120,,0600,10,0.0 
+103,Sentul  ,AGL,LRT,121,,0600,10,0.7 
+104,Titiwangsa  ,AGL,LRT,"45, 122, 179",,0600,10,2.0 
+105,PWTC  ,AGL,LRT,123,,0600,10,2.5 
+106,Sultan Ismail  ,AGL,LRT,124,177,0600,10,3.9 
+107,Bandaraya  ,AGL,LRT,125,,0600,10,5.1 
+108,Masjid Jamek  ,AGL,LRT,"77, 126",,0600,10,5.7 
+109,Plaza Rakyat  ,AGL,LRT,"13, 127",,0600,10,6.4 
+110,Hang Tuah  ,AGL,LRT,"128, 172",,0600,10,7.6 
+111,Pudu  ,AGL,LRT,129,,0600,10,8.6 
+112,Chan Sow Lin  ,AGL,LRT,"51, 130",,0600,10,9.3 
+113,Miharja  ,AGL,LRT,,,0600,10,10.8 
+114,Maluri  ,AGL,LRT,17,,0600,10,11.4 
+115,Pandan Jaya  ,AGL,LRT,,,0600,10,12.6 
+116,Pandan Indah  ,AGL,LRT,,,0600,10,13.7 
+117,Cempaka  ,AGL,LRT,,,0600,10,14.2 
+118,Cahaya  ,AGL,LRT,,,0600,10,15.5 
+119,Ampang ,AGL,LRT,,,0600,10,16.1 
+120,Sentul Timur  ,SPL,LRT,102,,0600,10,0.0 
+121,Sentul  ,SPL,LRT,103,,0600,10,1.4 
+122,Titiwangsa  ,SPL,LRT,"45, 104, 179",,0600,10,2.4 
+123,PWTC  ,SPL,LRT,105,,0600,10,3.7 
+124,Sultan Ismail  ,SPL,LRT,106,177,0600,10,4.7 
+125,Bandaraya  ,SPL,LRT,107,,0600,10,5.4 
+126,Masjid Jamek  ,SPL,LRT,"77, 108",,0600,10,6.0 
+127,Plaza Rakyat  ,SPL,LRT,"13, 109",,0600,10,7.2 
+128,Hang Tuah  ,SPL,LRT,"110, 172",,0600,10,8.2 
+129,Pudu  ,SPL,LRT,111,,0600,10,9.5 
+130,Chan Sow Lin  ,SPL,LRT,"51, 112",,0600,10,10.4 
+131,Cheras  ,SPL,LRT,,,0600,10,11.3 
+132,Salak Selatan  ,SPL,LRT,,,0600,10,12.5 
+133,Bandar Tun Razak  ,SPL,LRT,,,0600,10,13.9 
+134,Bandar Tasik Selatan  ,SPL,LRT,,,0600,10,14.6 
+135,Sungai Besi  ,SPL,LRT,54,,0600,10,15.3 
+136,Bukit Jalil  ,SPL,LRT,,,0600,10,15.9 
+137,Sri Petaling  ,SPL,LRT,,,0600,10,17.0 
+138,Awan Besar  ,SPL,LRT,,,0600,10,18.2 
+139,Muhibbah  ,SPL,LRT,,,0600,10,19.5 
+140,Alam Sutera  ,SPL,LRT,,,0600,10,20.2 
+141,Kinrara BK5  ,SPL,LRT,,,0600,10,21.0 
+142,IOI Puchong Jaya  ,SPL,LRT,,,0600,10,22.5 
+143,Pusat Bandar Puchong  ,SPL,LRT,,,0600,10,23.9 
+144,Taman Perindustrian Puchong  ,SPL,LRT,,,0600,10,25.1 
+145,Bandar Puteri  ,SPL,LRT,,,0600,10,26.2 
+146,Puchong Perdana  ,SPL,LRT,,,0600,10,27.2 
+147,Puchong Prima  ,SPL,LRT,,,0600,10,28.2 
+148,Putra Heights ,SPL,LRT,101,,0600,10,29.2 
+149,Bandar Utama  ,SAL,LRT,6,,0600,5,0.0 
+150,Kayu Ara  ,SAL,LRT,,,0600,5,0.8 
+151,BU11  ,SAL,LRT,,,0600,5,1.7 
+152,Damansara Idaman  ,SAL,LRT,,,0600,5,2.6 
+153,SS7  ,SAL,LRT,,,0600,5,3.5 
+154,Glenmarie 2,SAL,LRT,91,,0600,5,4.5 
+155,Kerjaya  ,SAL,LRT,,,0600,5,6.0 
+156,Stadium Shah Alam  ,SAL,LRT,,,0600,5,6.9 
+157,Dato? Menteri  ,SAL,LRT,,,0600,5,7.5 
+158,UiTM Shah Alam  ,SAL,LRT,,,0600,5,8.7 
+159,Seksyen 7 Shah Alam  ,SAL,LRT,,,0600,5,10.0 
+160,Bandar Baru Klang  ,SAL,LRT,,,0600,5,10.7 
+161,Pasar Besar Klang  ,SAL,LRT,,,0600,5,11.2 
+162,Jalan Meru  ,SAL,LRT,,,0600,5,12.5 
+163,Pasar Jawa  ,SAL,LRT,,,0600,5,13.2 
+164,Taman Selatan  ,SAL,LRT,,,0600,5,14.0 
+165,Seri Andalas  ,SAL,LRT,,,0600,5,15.5 
+166,Klang Jaya  ,SAL,LRT,,,0600,5,16.6 
+167,Bandar Bukit Tinggi  ,SAL,LRT,,,0600,5,17.1 
+168,Johan Setia  ,SAL,LRT,,,0600,5,18.5 
+169,KL Sentral  ,KL,MRL,,"11, 79",0600,7,0.0 
+170,Tun Sambanthan  ,KL,MRL,,,0600,7,0.6 
+171,Maharajalela  ,KL,MRL,,,0600,7,1.9 
+172,Hang Tuah  ,KL,MRL,"110, 128",,0600,7,2.9 
+173,Imbi  ,KL,MRL,,,0600,7,3.6 
+174,Bukit Bintang  ,KL,MRL,,14,0600,7,4.2 
+175,Raja Chulan  ,KL,MRL,,,0600,7,5.0 
+176,Bukit Nanas  ,KL,MRL,,76,0600,7,6.0 
+177,Medan Tuanku  ,KL,MRL,,"106, 124",0600,7,7.2 
+178,Chow Kit  ,KL,MRL,,,0600,7,8.4 
+179,Titiwangsa  ,KL,MRL,"45, 104, 122",,0600,7,9.3 
+180,Setia Jaya  ,SSJ,BRT,,,0600,8,0.0 
+181,Mentari  ,SSJ,BRT,,,0600,8,0.5 
+182,Sunway Lagoon  ,SSJ,BRT,,,0600,8,1.8 
+183,SunMed  ,SSJ,BRT,,,0600,8,2.9 
+184,SunU-Monash  ,SSJ,BRT,,,0600,8,3.7 
+185,South Quay-USJ 1  ,SSJ,BRT,,,0600,8,4.8 
+186,USJ7  ,SSJ,BRT,95,,0600,8,5.5 
