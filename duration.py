@@ -8,7 +8,6 @@ def get_next_train_time(station_id):
         # Get current device time
         current_time = datetime.now().time()
         current_datetime = datetime.now()
-        print(f"Current time: {current_time.strftime('%H:%M')}")
         
         with open(file_path, newline="", encoding='latin-1') as f:
             reader = csv.DictReader(f)
