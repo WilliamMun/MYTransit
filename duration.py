@@ -68,14 +68,3 @@ def calculate_next_train(current_time, first_train_time, frequency_minutes):
     next_train_datetime = first_train_datetime + timedelta(minutes=next_train_minutes)
     
     return next_train_datetime
-
-if __name__ == "__main__":
-    try:
-        user_input_raw = input("Enter Station ID: ")
-        user_input = int(user_input_raw.strip())
-        print("\n" + "="*40)
-        result = get_next_train_time(user_input)
-        print(result)
-        print("="*40)
-    except ValueError:
-        print("Please enter a valid number for Station ID.")
