@@ -22,9 +22,8 @@ def welcome_message():
 def display_station():
     df = pd.read_csv("station_info.csv", encoding="cp1252")
     df.columns = df.columns.str.strip()
-    df_clean = df[["station_id", "station_name", "type_of_train"]]
-    df_clean = df_clean.drop_duplicates(subset=["station_name"])
-    df_clean["formatted"] = df_clean["station_id"].astype(str) + ": " + df_clean["type_of_train"] + "- " + df_clean["station_name"]
+    df_clean = df[["station_id", "station_name", "type_of_train", "line"]].copy()
+    df_clean.loc[:, "formatted"] = (df_clean["station_id"].astype(str) + ": " + df_clean["type_of_train"] + "- " + df_clean["station_name"] + " (" + df_clean["line"] + ")")
     station_list = df_clean["formatted"].tolist()
     for station in station_list:
         print(station)
