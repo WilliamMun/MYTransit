@@ -103,13 +103,3 @@ def suggest_route(start_id, end_id):
         prev_line = line
 
     return "\n".join(output)
-
-if __name__ == "__main__":
-    welcome_message()
-    print("\nHere is the full list of stations with their IDs:\n")
-    display_station()
-    
-    start = int(input("Enter starting station ID: "))
-    end = int(input("Enter destination station ID: "))
-    print("\nSuggested Route:\n")
-    print(suggest_route(start, end))
